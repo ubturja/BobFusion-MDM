@@ -1,0 +1,14 @@
+Golden_ID,Legal_Name,National_ID,Master_Email,Master_Phone,Active_Products,Source_Systems,Source_IDs,Total_Exposure
+d31419bb-e603-4c20-afce-2716ebeed9fe,David Patel,519234401,david.patel@corp.com,5556301122,"['Checking', 'Credit Card', 'Mortgage']","['CoreBanking', 'CreditCard', 'Mortgage']","['CB-10005', 'CC-88005', 'ML-55005']",302000.0
+5704045b-9c1d-4af6-a92e-86195beda8be,Nancy Foster,219456789,,5559012233,"['Credit Card', 'Mortgage']","['CreditCard', 'Mortgage']","['CC-88003', 'ML-55003']",215000.0
+dedb28d7-ffb4-4d91-8554-34c3deb9a728,Robert Smith,467881234,robert.smith@email.com,5553104400,"['Checking', 'Credit Card', 'Mortgage']","['CoreBanking', 'CreditCard', 'Mortgage']","['CB-10001', 'CC-88001', 'ML-55001']",343920.5
+91a6ec8e-1cd4-4cff-a1ef-b4b64893efc6,James Wilson,,james.wilson@bank.com,,['Checking'],['CoreBanking'],['CB-10003'],32100.75
+e12f8f03-f155-40aa-a3ff-f76d63a5a76a,Rachel Torres,843621177,rachel.torres@email.com,5555196677,"['Checking', 'Credit Card', 'Mortgage']","['CoreBanking', 'CreditCard', 'Mortgage']","['CB-10008', 'CC-88008', 'ML-55008']",329100.5
+d554cfc0-97ed-4be0-a95e-f7d93dc3d2b9,John Wilson,291603347,,5557748822,['Mortgage'],['Mortgage'],['ML-55002'],185000.0
+3dfa5186-1d57-47cd-9dd2-085614314ca2,Susan Okafor,634192255,susan.okafor@email.com,5557340088,"['Checking', 'Credit Card', 'Mortgage']","['CoreBanking', 'CreditCard', 'Mortgage']","['CB-10006', 'CC-88006', 'ML-55006']",637800.25
+26b93991-aa5b-4147-8a49-24e748fefc98,Linda Chen,302778812,linda.chen@email.com,5552149900,"['Checking', 'Credit Card', 'Mortgage']","['CoreBanking', 'CreditCard', 'Mortgage']","['CB-10004', 'CC-88004', 'ML-55004']",413000.0
+3d159673-7a10-4713-bcbb-f02da6454dd4,Maria Garcia,,maria.garcia@email.com,5552107890,"['Checking', 'Credit Card']","['CoreBanking', 'CreditCard']","['CB-10002', 'CC-88002']",20200.0
+d516bd75-60cb-4864-8d11-080a2f04f874,Patricia Lee,,p.lee@email.com,,['Checking'],['CoreBanking'],['CB-10010'],4750.0
+279e6631-1a60-4f49-81e4-c2f997aec246,Michael Brown,956347720,m.brown@company.com,5551278899,"['Checking', 'Credit Card', 'Mortgage']","['CoreBanking', 'CreditCard', 'Mortgage']","['CB-10009', 'CC-88009', 'ML-55009']",476500.0
+4142152f-4d35-4d40-af5d-65dad166c81e,Kevin Nguyen,721559930,k.nguyen@webmail.com,5558123344,"['Checking', 'Credit Card', 'Mortgage']","['CoreBanking', 'CreditCard', 'Mortgage']","['CB-10007', 'CC-88007', 'ML-55007']",204400.0
+441340ed-cf00-4c5e-8d3e-a62a92db988f,Carlos Mendez,112845563,,5554410033,"['Credit Card', 'Mortgage']","['CreditCard', 'Mortgage']","['CC-88010', 'ML-55010']",243000.0
