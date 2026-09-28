@@ -152,7 +152,7 @@ class GoldenRecordETL:
         out["norm_name"]       = df["Cust_Name"].apply(self._normalise_name)
         out["norm_email"]      = df["Email"].apply(self._normalise_email)
         out["norm_phone"]      = pd.NA   # Core Banking has no phone column
-        out["norm_ssn"]        = pd.NA   # Core Banking has no SSN column
+        out["norm_ssn"]        = df["SSN"].apply(self._normalise_ssn) if "SSN" in df.columns else pd.NA
         out["account_balance"] = pd.to_numeric(df["Account_Balance"], errors="coerce").fillna(0.0)
         out["credit_limit"]    = 0.0
         out["loan_amount"]     = 0.0
