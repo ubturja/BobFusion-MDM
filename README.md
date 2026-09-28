@@ -1,4 +1,4 @@
-# 🏦 Golden Customer Record Engine
+# 🏦 BobFusion MDM
 
 > **Master Data Management powered by AI-assisted engineering — resolving fragmented customer identities across siloed banking systems into a single, authoritative source of truth.**
 
